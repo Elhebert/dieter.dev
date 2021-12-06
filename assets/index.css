@@ -2,7 +2,7 @@
 @tailwind components;
 
 .background-image {
-  background-image: url('/louvre.jpg');
+  background-image: url('https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638790367/dieter.dev/louvre.jpg');
   background-size: cover;
   background-position: center center;
   aspect-ratio: 16/9;

@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   },
   vite: {
     plugins: [
-      Markdown({ wrapperClasses: 'prose leading-loose max-w-none' }),
+      Markdown({ wrapperClasses: 'prose leading-loose max-w-none', frontmatter: true, exposeFrontmatter: true }),
     ],
     // @ts-ignore
     vue: {

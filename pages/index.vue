@@ -1,4 +1,9 @@
 <template>
+  <Head>
+    <Title>Dieter Stinglhamber - Home</Title>
+    <Meta name="description" content="Dieter Stinglhamber personal website" />
+  </Head>
+
   <article>
     <section>
       <div class="sm:pt-40">
@@ -44,7 +49,7 @@
       <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8 justify-items-center items-center w-4/5">
         <li>
           <a class="h-10 flex items-center" href="https://escaux.be" title="Escaux">
-            <img src="/escaux.png" alt="Escaux" class="w-full h-auto">
+            <img src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638784807/dieter.dev/escaux.png" alt="Escaux" class="w-full h-auto">
           </a>
         </li>
 
@@ -106,7 +111,7 @@
       <p class="text-[#ECC127] text-2xl leading-snug font-black">My kingdom for board games</p>
 
       <figure class="my-8 text-center">
-        <img src="/shelf-2.jpg" class="rounded-xl shadow-lg mx-auto" alt="boardgame shelf">
+        <img src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638790367/dieter.dev/shelf.jpg" class="rounded-xl shadow-lg mx-auto" alt="boardgame shelf">
         <figcaption>Here's a picture of what my shelves currently look like</figcaption>
       </figure>
 
@@ -132,8 +137,4 @@
   </article>
 </template>
 
-<script lang="ts" setup>
-useMeta({
-  title: 'Dieter Stinglhamber - Home'
-})
-</script>
+<script lang="ts" setup></script>

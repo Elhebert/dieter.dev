@@ -1,10 +1,15 @@
 <template>
+  <Head>
+    <Title>Dieter Stinglhamber - Uses</Title>
+    <Meta name="description" content="Uses page for my current work and play setups." />
+  </Head>
+
   <article>
     <section class="mt-16 prose leading-loose max-w-none">
       <p class="text-[#ECC127] text-3xl leading-snug font-black">My Setup</p>
 
       <figure class="my-8 text-center">
-        <img src="/desk.jpg" class="rounded-xl shadow-lg mx-auto" alt="setup">
+        <img src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638790367/dieter.dev/desk.jpg" class="rounded-xl shadow-lg mx-auto" alt="setup">
         <figcaption>Here's what my setup looks like</figcaption>
       </figure>
 
@@ -100,8 +105,4 @@
   </article>
 </template>
 
-<script lang="ts" setup>
-useMeta({
-  title: 'Dieter Stinglhamber - Uses'
-})
-</script>
+<script lang="ts" setup></script>
