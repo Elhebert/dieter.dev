@@ -34,6 +34,9 @@ module.exports = {
             h6: {
               color: '#ECC127',
             },
+            a: {
+              '@apply no-underline hover:underline font-bold text-[#3736C6]': '',
+            },
           },
         },
       },

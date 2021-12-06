@@ -1,12 +1,15 @@
-<script lang="ts" setup>
-const year = new Date().getFullYear()
-</script>
-
 <template>
   <footer class="w-full text-center p-16 bg-[#FAF8EF] border border-t-[#ECC127]">
-    <p>
-      Made by <a class="no-underline hover:underline font-bold text-[#3736C6]" href="/">Elhebert</a> using&nbsp;<a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://tailwindcss.com">Tailwind CSS</a>, powered by&nbsp;<a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://nuxtjs.org/">NuxtJS</a> and hosted on&nbsp;<a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://www.netlify.com">Netlify</a>.
+    <p class="mb-5">
+      This website source code can be found on <Link href="https://github.com/elhebert/dieter.dev">GitHub</Link>.
     </p>
-    <p>Copyright &copy; <time :datetime="year">{{ year }}</time></p>
+    <p class="my-5">
+      Made by <Link href="/">Elhebert</Link> using&nbsp;<Link href="https://tailwindcss.com">Tailwind CSS</Link>, powered by&nbsp;<Link href="https://nuxtjs.org/">Nuxt</Link> and hosted on&nbsp;<Link href="https://www.netlify.com">Netlify</Link>.
+    </p>
+    <p class="mt-5">Copyright &copy; <time :datetime="`${year}`">{{ year }}</time></p>
   </footer>
 </template>
+
+<script lang="ts" setup>
+  const year = new Date().getFullYear()
+</script>

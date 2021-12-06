@@ -88,15 +88,15 @@
       <p>My Favorite games are (in no particular order):</p>
 
       <ul>
-        <li class="ml-8">Dark Souls 1 and 3</li>
-        <li class="ml-8">Demon Souls (PS3 and PS5)</li>
-        <li class="ml-8">Bloodborne</li>
-        <li class="ml-8">Mass Effect 1,2 and 3.</li>
-        <li class="ml-8">Dragon Age: Origins and 2.</li>
-        <li class="ml-8">TES5: Skyrim</li>
-        <li class="ml-8">Diablo 3</li>
-        <li class="ml-8">The Last Of Us</li>
-        <li class="ml-8">Horizon Zero Dawn</li>
+        <li>Dark Souls 1 and 3</li>
+        <li>Demon Souls (PS3 and PS5)</li>
+        <li>Bloodborne</li>
+        <li>Mass Effect 1,2 and 3.</li>
+        <li>Dragon Age: Origins and 2.</li>
+        <li>TES5: Skyrim</li>
+        <li>Diablo 3</li>
+        <li>The Last Of Us</li>
+        <li>Horizon Zero Dawn</li>
       </ul>
 
       <p>As you can see I play mostly solo games. I like RPGs and games with good stories. I also like to pretend that I'm good at From Software game.</p>
@@ -117,12 +117,12 @@
       <p>Recently I started to play games remotely with my parents and friends. So here's a list of games that works over video call. Of course, both side need to own the game and some coordination is required:</p>
 
       <ul>
-        <li class="ml-8">Cartographer</li>
-        <li class="ml-8">Codenames</li>
-        <li class="ml-8">Azul</li>
-        <li class="ml-8">Ticket to Ride</li>
-        <li class="ml-8">Roll Player</li>
-        <li class="ml-8">Carcassonne</li>
+        <li>Cartographer</li>
+        <li>Codenames</li>
+        <li>Azul</li>
+        <li>Ticket to Ride</li>
+        <li>Roll Player</li>
+        <li>Carcassonne</li>
       </ul>
 
       <p>There's probably lots of other games that can work but these are the one we played so far.</p>
