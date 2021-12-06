@@ -1,9 +1,4 @@
 <template>
-  <Head>
-    <Title>Dieter Stinglhamber - Uses</Title>
-    <Meta name="description" content="Uses page for my current work and play setups." />
-  </Head>
-
   <article>
     <section class="mt-16 prose leading-loose max-w-none">
       <p class="text-[#ECC127] text-3xl leading-snug font-black">My Setup</p>
@@ -105,4 +100,11 @@
   </article>
 </template>
 
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+useMeta({
+  title: 'Dieter Stinglhamber - Uses',
+  meta: [
+    { name: 'description', content: 'Uses page for my current work and play setups.' },
+  ],
+})
+</script>

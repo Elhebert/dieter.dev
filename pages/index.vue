@@ -1,9 +1,4 @@
 <template>
-  <Head>
-    <Title>Dieter Stinglhamber - Home</Title>
-    <Meta name="description" content="Dieter Stinglhamber personal website" />
-  </Head>
-
   <article>
     <section>
       <div class="sm:pt-40">
@@ -137,4 +132,11 @@
   </article>
 </template>
 
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+useMeta({
+  title: 'Dieter Stinglhamber - Home',
+  meta: [
+    { name: 'description', content: 'Dieter Stinglhamber personal website' },
+  ],
+})
+</script>

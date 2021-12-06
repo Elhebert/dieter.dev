@@ -3,6 +3,13 @@ import Markdown from 'vite-plugin-md'
 
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
+  head: {
+    meta: [
+      { charset: 'utf-8' },
+      { 'http-equiv': 'x-ua-compatible', content: 'ie=edge' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+    ],
+  },
   css: ['~/assets/index.css'],
   build: {
     postcss: {

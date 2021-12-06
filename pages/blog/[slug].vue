@@ -1,9 +1,4 @@
 <template>
-  <Head>
-    <Title>{{ title }}</Title>
-    <Meta name="description" content="Archived blog post" />
-  </Head>
-
   <article class="mt-16">
     <Warning class="mb-16" v-if="blogpost" :published-at="blogpost?.frontmatter?.date" />
     <component :is="Post" ref="blogpost"/>
@@ -22,7 +17,12 @@ const Post = defineAsyncComponent(async () => {
   }
 })
 
-const title = computed(() => blogpost?.frontmatter?.title
+useMeta({
+  title: blogpost?.frontmatter?.title
     ? `[Archived] ${blogpost?.frontmatter?.title}`
-    : '[Archived] this post has been archived')
+    : '[Archived] this post has been archived',
+  meta: [
+    { name: 'description', content: 'Archived blog post' },
+  ],
+})
 </script>
