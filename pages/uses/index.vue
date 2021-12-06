@@ -1,6 +1,6 @@
 <template>
   <article>
-    <section class="mt-16 prose leading-loose max-w-none">
+    <section class="prose leading-loose max-w-none">
       <p class="text-[#ECC127] text-3xl leading-snug font-black">My Setup</p>
 
       <figure class="my-8 text-center">

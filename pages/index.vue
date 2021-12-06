@@ -3,7 +3,7 @@
     <section>
       <div class="sm:pt-40">
           <h1 class="text-xl font-medium">Dieter Stinglhamber</h1>
-          <p class="text-5xl leading-snug ml-[-.1rem] font-black">
+          <p class="text-4xl sm:text-5xl leading-snug ml-[-.1rem] font-black">
               Makes shit happens since <time datetime="2015" class="text-[#ECC127]">2015</time>
           </p>
           <p class="mt-5 text-xl">
@@ -17,7 +17,7 @@
       </div>
     </section>
 
-    <section class="mt-16 prose leading-loose max-w-none">
+    <section class="sm:mt-16 prose leading-loose max-w-none">
       <p class="text-[#ECC127] text-3xl leading-snug font-black">About me</p>
 
       <p>In a few words:<br>🧞 Weird, 🧙‍♂️ different, 🤓 quirky, 📢 loud, 🤣 funny.</p>

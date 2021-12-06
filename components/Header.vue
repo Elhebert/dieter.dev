@@ -1,5 +1,5 @@
 <template>
-  <header class="container max-w-screen-xl mx-auto px-16 py-4">
+  <header class="container max-w-screen-xl mx-auto px-4 sm:px-16 py-4">
     <nav class="flex justify-end">
       <ul class="flex space-x-4">
         <li>

@@ -1,5 +1,5 @@
 <template>
-  <article class="mt-16">
+  <article class="sm:mt-16">
     <Warning class="mb-16" v-if="blogpost" :published-at="blogpost?.frontmatter?.date" />
     <component :is="Post" ref="blogpost"/>
   </article>
