@@ -1,6 +1,11 @@
 https://www.dieter.is https://www.dieter.dev 302
-https://dieter.is https://dieter.dev 302
-https://dieterstinglhamber.me/about https://dieter.dev 301
-https://dieterstinglhamber.me/* https://dieter.dev/:splat 301
+https://www.dieter.is/* https://www.dieter.dev 302
+https://dieter.is https://www.dieter.dev 302
+https://dieter.is/* https://www.dieter.dev 302
+https://dieterstinglhamber.me/about https://www.dieter.dev 301
+https://www.dieterstinglhamber.me/about https://www.dieter.dev 301
+https://dieterstinglhamber.me/* https://www.dieter.dev/:splat 301
+https://www.dieterstinglhamber.me/* https://www.dieter.dev/:splat 301
 https://elhebert.be https://www.dieter.dev 302
+https://www.elhebert.be https://www.dieter.dev 302
 https://quirky-goldstine-861bee.netlify.app/* https://www.dieter.dev/:splat 302
