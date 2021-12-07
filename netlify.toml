@@ -1,18 +1,18 @@
 [[redirects]]
-from = "https://dieter.is/*"
-to = "https://www.dieter.dev/"
+from = "https://www.dieter.is"
+to = "https://www.dieter.dev"
 status = 302
 force = true
 
 [[redirects]]
-from = "https://dieterstinglhamber.me/"
-to = "https://www.dieter.dev/"
-status = 301
+from = "https://dieter.is"
+to = "https://www.dieter.dev"
+status = 302
 force = true
 
 [[redirects]]
 from = "https://dieterstinglhamber.me/about"
-to = "https://www.dieter.dev/"
+to = "https://www.dieter.dev"
 status = 301
 force = true
 
@@ -29,8 +29,14 @@ status = 301
 force = true
 
 [[redirects]]
+from = "https://dieterstinglhamber.me"
+to = "https://www.dieter.dev"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://elhebert.be/*"
-to = "https://www.dieter.dev/"
+to = "https://www.dieter.dev"
 status = 302
 force = true
 
