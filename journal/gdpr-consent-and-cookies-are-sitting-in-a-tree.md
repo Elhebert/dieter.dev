@@ -1,9 +1,10 @@
 ---
 title: GDPR, consent and cookies are sitting in a tree...
 date: 2018-08-27
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# GDPR, consent and cookies are sitting in a tree...
 
 Have you ever visited a website and the first thing you saw was a popup blocking the navigation to ask you what kind of cookies you wanted?
 
@@ -54,7 +55,7 @@ It also give us the following example:
 - multimedia content player cookies used to store technical data to playback video or audio content, for the duration of a session
 - load‑balancing cookies, for the duration of a session
 - user‑interface customization cookies such as language or font preferences, for the duration of a session (or slightly longer)
--third‑party social plug‑in content‑sharing cookies, for logged‑in members of a social network.
+- third‑party social plug‑in content‑sharing cookies, for logged‑in members of a social network.
 
 # tl;dr
 
@@ -66,4 +67,4 @@ Or even better, consider using Matomo, it's free, it's open source and it offers
 
 ---
 
-I also wrote a couple of blog post about [no cookie tracking](https://dieterstinglhamber.me/gdpr-compliant-tracking), the [Do Not Track header](https://dieterstinglhamber.me/taking-the-donottrack-header-into-account) and how to [remove cookies from a Laravel installation](https://dieterstinglhamber.me/join-the-light-side-we-have-no-cookies).
+I also wrote a couple of blog post about [no cookie tracking](https://dieterstinglhamber.me/blog/gdpr-compliant-tracking), the [Do Not Track header](https://dieterstinglhamber.me/blog/taking-the-donottrack-header-into-account) and how to [remove cookies from a Laravel installation](https://dieterstinglhamber.me/blog/join-the-light-side-we-have-no-cookies).

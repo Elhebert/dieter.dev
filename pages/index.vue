@@ -132,11 +132,18 @@
   </article>
 </template>
 
-<script lang="ts" setup>
-useMeta({
-  title: 'Dieter Stinglhamber - Home',
-  meta: [
-    { name: 'description', content: 'Dieter Stinglhamber personal website' },
-  ],
+<script lang="ts">
+import { useMeta, defineComponent } from '@nuxtjs/composition-api'
+
+export default defineComponent({
+  head: {},
+  setup() {
+    useMeta({
+      title: 'Dieter Stinglhamber - Home',
+      meta: [
+        { name: 'description', content: 'Dieter Stinglhamber personal website' },
+      ],
+    })
+  },
 })
 </script>

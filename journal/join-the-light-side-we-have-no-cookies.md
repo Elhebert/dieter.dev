@@ -1,9 +1,10 @@
 ---
 title: Join the light side, we have no cookies.
 date: 2018-06-27
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# Join the light side, we have no cookies.
 
 If you haven't been in hibernation the last couples of weeks you might have heard of something called
 

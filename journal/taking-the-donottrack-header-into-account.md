@@ -1,9 +1,10 @@
 ---
 title: Taking the DoNotTrack header into account
 date: 2018-07-27
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# Taking the DoNotTrack header into account
 
 I mentioned it in my [previous post](https://dieterstinglhamber.me/gdpr-compliant-tracking) most browsers have the possibility to send a DNT (Do Not Track) header with every request. In a perfect world, every website should check its existence and act accordingly.
 

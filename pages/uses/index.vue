@@ -104,11 +104,18 @@
   </article>
 </template>
 
-<script lang="ts" setup>
-useMeta({
-  title: 'Dieter Stinglhamber - Uses',
-  meta: [
-    { name: 'description', content: 'Uses page for my current work and play setups.' },
-  ],
+<script>
+import { defineComponent, useMeta } from  '@nuxtjs/composition-api'
+
+export default defineComponent({
+  head: {},
+  setup () {
+    useMeta({
+      title: 'Dieter Stinglhamber - Uses',
+      meta: [
+        { name: 'description', content: 'Uses page for my current work and play setups.' },
+      ],
+    })
+  }
 })
 </script>

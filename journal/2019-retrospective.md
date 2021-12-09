@@ -3,7 +3,7 @@ title: 2019's retrospective
 date: 2019-12-24
 ---
 
-# {{ frontmatter.title }}
+# 2019's retrospective
 
 Before I start to look back at what my 2019 year was like, I wanted to look at the expectation I had set for myself in 2018. 
 

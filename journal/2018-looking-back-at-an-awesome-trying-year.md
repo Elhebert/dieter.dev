@@ -3,7 +3,7 @@ title: My 2018, looking back at an awesome, trying year
 date: 2018-12-28
 ---
 
-# {{ frontmatter.title }}
+# My 2018, looking back at an awesome, trying year
 
 To resume this year: **2018 was an awesome, trying year** but I have grown a lot as a person and a developer.
 

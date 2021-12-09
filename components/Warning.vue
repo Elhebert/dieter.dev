@@ -11,5 +11,5 @@ const { publishedAt } = defineProps({
   publishedAt: String,
 })
 
-const writtenOn = format(new Date(publishedAt), 'MMMM yyyy')
+const writtenOn = format(new Date(publishedAt as string), 'MMMM yyyy')
 </script>
