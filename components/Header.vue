@@ -5,7 +5,6 @@
         <li>
           <NuxtLink
             to="/"
-            active-class="text-[#3736C6]"
             class="text-xl font-bold no-underline hover:text-[#3736C6]"
           >
             Home
@@ -14,7 +13,6 @@
         <li>
           <NuxtLink
             to="/uses"
-            active-class="text-[#3736C6]"
             class="text-xl font-bold no-underline hover:text-[#3736C6]"
           >
             Uses

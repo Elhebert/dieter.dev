@@ -1,9 +1,10 @@
 ---
 title: The Good, the Bad and the Ugly of seeding data in production
 date: 2018-05-31
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# The Good, the Bad and the Ugly of seeding data in production
 
 I had the idea for this article after my coworker asks this question in one of our repositories.
 

@@ -3,7 +3,7 @@ title: A year at Altavia Act*
 date: 2018-04-17
 ---
 
-# {{ frontmatter.title }}
+# A year at Altavia Act*
 
 When I arrived at Altavia Act*, they had one big (huge) server that would host everything, `titan` they called it. It hosted about 150 different websites (both production and staging environment). It also served as VCS (git) remote for some projects. They also had one project on Gitlab.
 

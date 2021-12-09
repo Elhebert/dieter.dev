@@ -1,9 +1,10 @@
 ---
 title: I attempted to run a marathon
 date: 2018-10-29
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# I attempted to run a marathon
 
 Yesterday (28th October 2018) I attempted to run the Brussels marathon. Attempted is the key word here because after 4h16 of intense effort I gave up. I gave up after 36km, so close to the 42,195km, yet so far.
 

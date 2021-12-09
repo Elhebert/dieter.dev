@@ -1,18 +1,13 @@
 module.exports = {
-  mode: 'jit',
-  purge: [
+  content: [
     './components/**/*.{vue,js}',
     './layouts/**/*.vue',
     './pages/**/*.vue',
     './plugins/**/*.{js,ts}',
     './nuxt.config.{js,ts}',
   ],
-  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      fontFamily: {
-        title: 'Josefin Sans, sans-serif',
-      },
       typography: {
         DEFAULT: {
           css: {
@@ -43,10 +38,8 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
   },
   plugins: [
-    require('@tailwindcss/aspect-ratio'),
     require('@tailwindcss/typography'),
   ],
 }

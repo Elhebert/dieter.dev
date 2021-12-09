@@ -1,9 +1,10 @@
 ---
 title: I socialized with real people
 date: 2019-01-20
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# I socialized with real people
 
 It's strange to say it, but it's an exceptional event for me. If you don't take family and co-workers, I don't socialize much. Call it social anxiety or whatever is more appropriate.
 

@@ -1,9 +1,10 @@
 ---
 title: Look mum, no cookies!
 date: 2018-07-11
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# Look mum, no cookies!
 
 > I had a very good introduction, but I realized it was spoiling some Star Wars 8 stuff, so I removed it.
 

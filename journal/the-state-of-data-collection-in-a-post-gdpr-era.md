@@ -1,9 +1,10 @@
 ---
 title: The state of data collection in a post GDPR era
 date: 2019-01-04
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# The state of data collection in a post GDPR era
 
 Before the GDPR we were all happy while collecting data about everyone that was visiting our website. Data gathered with tools like Google Analytics, Google Tag Manager, Matomo or Facebook Pixel to name only a few.
 

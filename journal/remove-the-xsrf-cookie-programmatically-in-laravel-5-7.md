@@ -1,9 +1,10 @@
 ---
 title: Removing the XSRF cookie programmatically in Laravel 5.7
 date: 2018-09-25
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# Removing the XSRF cookie programmatically in Laravel 5.7
 
 I wrote a blog post couples of month ago about removing all cookies from a fresh Laravel application, but since then Laravel 5.7 release with a cool new feature that people might have missed.
 

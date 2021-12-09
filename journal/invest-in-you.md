@@ -1,9 +1,10 @@
 ---
 title: Invest in you, not only in your resume
 date: 2017-09-18
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# Invest in you, not only in your resume
 
 I’ve been helping a fellow developer to find a new job. He’s a junior developer and doesn’t have a lot of experience or skills. And it reminded me of myself couples year before, when I was in the same situation as him, doing the same mistakes.
 

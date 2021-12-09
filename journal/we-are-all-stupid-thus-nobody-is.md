@@ -1,9 +1,10 @@
 ---
-date: 2018-12-11
 title: We are all stupid thus, nobody is.
+date: 2018-12-11
+archived: true
 ---
 
-# {{ frontmatter.title }}
+# We are all stupid thus, nobody is.
 
 I had an interesting discussion with some colleagues and I think it's worth sharing.
 
