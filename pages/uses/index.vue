@@ -4,20 +4,37 @@
       <p class="text-[#ECC127] text-3xl leading-snug font-black">My Setup</p>
 
       <figure class="my-8 text-center">
-        <img src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638790367/dieter.dev/desk.jpg" class="rounded-xl shadow-lg mx-auto" alt="setup">
+        <img
+          src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638790367/dieter.dev/desk.jpg"
+          class="rounded-xl shadow-lg mx-auto"
+          alt="setup"
+        />
         <figcaption>Here's what my setup looks like</figcaption>
       </figure>
 
       <p>
-        I have a dual system setup. It went through a lot of changes, but I'm very happy with this latest iteration. Both computers are connected to all my peripherals. The only things that I switch are the mouse and keyboard. It's my way to differentiate between work and play.
+        I have a dual system setup. It went through a lot of changes, but I'm
+        very happy with this latest iteration. Both computers are connected to
+        all my peripherals. The only things that I switch are the mouse and
+        keyboard. It's my way to differentiate between work and play.
       </p>
 
       <p>
-        All the cable are managed with the help of raceways and cableclips attached to the bottom the desk with double side tape. This allow me to keep everything clean even when the desk is in the raised position.
+        All the cable are managed with the help of raceways and cableclips
+        attached to the bottom the desk with double side tape. This allow me to
+        keep everything clean even when the desk is in the raised position.
       </p>
 
       <p>
-        I use the Macbook Pro only for work. I don't use it for anything personal. I do this to avoid mixing my personal and professional life. Windows offers everything I need when dealing with side projects or simply dealing with my paperwork and day-to-day life. I even toyed with the idea to switch to Windows completely, even for work. I was looking to buy a new laptop to replace my mid-2012 Macbook Pro, but seeing the prices of the Macbook's and the Windows equivalent made me think. Since my desktop became my main device I decided to buy an iPad Pro instead. It provides the portability and capability I need.
+        I use the Macbook Pro only for work. I don't use it for anything
+        personal. I do this to avoid mixing my personal and professional life.
+        Windows offers everything I need when dealing with side projects or
+        simply dealing with my paperwork and day-to-day life. I even toyed with
+        the idea to switch to Windows completely, even for work. I was looking
+        to buy a new laptop to replace my mid-2012 Macbook Pro, but seeing the
+        prices of the Macbook's and the Windows equivalent made me think. Since
+        my desktop became my main device I decided to buy an iPad Pro instead.
+        It provides the portability and capability I need.
       </p>
     </section>
 
@@ -105,17 +122,20 @@
 </template>
 
 <script>
-import { defineComponent, useMeta } from  '@nuxtjs/composition-api'
+import { defineComponent, useMeta } from '@nuxtjs/composition-api'
 
 export default defineComponent({
-  head: {},
-  setup () {
+  setup() {
     useMeta({
       title: 'Dieter Stinglhamber - Uses',
       meta: [
-        { name: 'description', content: 'Uses page for my current work and play setups.' },
+        {
+          name: 'description',
+          content: 'Uses page for my current work and play setups.',
+        },
       ],
     })
-  }
+  },
+  head: {},
 })
 </script>
