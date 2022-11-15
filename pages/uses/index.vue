@@ -4,12 +4,8 @@
       <p class="text-[#ECC127] text-3xl leading-snug font-black">My Setup</p>
 
       <figure class="my-8 text-center">
-        <img
-          src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638790367/dieter.dev/desk.jpg"
-          class="rounded-xl shadow-lg mx-auto"
-          alt="setup"
-        />
-        <figcaption>Here's what my setup looks like</figcaption>
+        <img src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1638790367/dieter.dev/desk.jpg" class="rounded-xl shadow-lg mx-auto" alt="setup">
+        <figcaption>Here's what my setup looked like</figcaption>
       </figure>
 
       <p>
@@ -49,7 +45,7 @@
         <li>🖥️ LG 38WN95C-W</li>
         <li>🎥 Logitech Brio 4K</li>
         <li>🎙️ Rode Procaster with Blue Yeti Compass arm</li>
-        <li>🎛️ Berhinger U-Phoria UMC22</li>
+        <li>🎛️ Focusrite Scarlett Solo 3rd Gen</li>
         <li>🎧 AKG K92 for direct feedback</li>
         <li>🧵 NovelKeys Laser Desk Mat</li>
       </ul>
@@ -75,7 +71,7 @@
       <p><strong class="font-bold">On the go:</strong></p>
 
       <ul>
-        <li>📞 iPhone SE 2020</li>
+        <li>📞 iPhone 14 Pro</li>
         <li>📱 iPad Pro 12" 2021</li>
       </ul>
     </section>
@@ -110,10 +106,10 @@
       <p><strong class="font-bold">Work:</strong></p>
 
       <ul>
-        <li>⚙️ Mac OS Monterrey</li>
+        <li>⚙️ Mac OS Ventura</li>
         <li>🧑‍💻 iTerm 2 with the Night Owl theme</li>
         <li>🪟 Rectangle</li>
-        <li>🚀 Alfred</li>
+        <li>🚀 Raycast</li>
         <li>🧮 Numi</li>
         <li>😀 Rocket</li>
       </ul>

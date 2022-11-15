@@ -1,6 +1,6 @@
 <template>
   <article class="sm:mt-16">
-    <Warning class="mb-16" v-if="page.archived" :published-at="page.date" />
+    <Warning v-if="page.archived" class="mb-16" :published-at="page.date" />
     <nuxt-content :document="page" class="prose leading-loose max-w-none" />
   </article>
 </template>
@@ -15,7 +15,6 @@ interface IPost {
 }
 
 export default defineComponent({
-  head: {},
   setup () {
     const route = useRoute()
 
@@ -30,6 +29,8 @@ export default defineComponent({
     })
 
     return { page }
-  }
+  },
+
+  head: {}
 })
 </script>

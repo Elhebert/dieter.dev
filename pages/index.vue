@@ -28,10 +28,7 @@
         funny.
       </p>
       <p>👨‍💼 I don't know how to act my age. I've never been this old before.</p>
-      <p>
-        🇧🇪 I'm Belgian, lived for 2 years in Germany 🇩🇪 and moved to France 🇫🇷
-        early 2022.
-      </p>
+      <p>🇧🇪 I'm Belgian, lived in Germany 🇩🇪 for a couple years and somehow landed in sunny south of France 🇫🇷.</p>
       <p>💬 I speak both French 🇫🇷, English 🇬🇧 and basic Spanish 🇪🇸.</p>
       <p>
         🧸 I love Disney cartoons and movies. My all-time favorite is Beauty and
@@ -174,13 +171,9 @@
         and bash scripts which slowly migrated to Laravel Forge.
       </p>
 
-      <p>
-        I worked for 2 years for (hotel?) trivago. I was involved in the
-        development of a marketplace platform where hoteliers would be able to
-        buy and use tools/apps to manage their properties on trivago.
-      </p>
+      <p>I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago.</p>
 
-      <p>And finally I joined Strapi as a Backend Engineer.</p>
+      <p>And finally I joined Strapi. I work as a Lead Backend Engineer for the upcoming Strapi Cloud platform.</p>
     </section>
 
     <section class="mt-16 prose leading-loose max-w-none">
@@ -200,12 +193,13 @@
         <li>Dark Souls 1 and 3</li>
         <li>Demon Souls (PS3 and PS5)</li>
         <li>Bloodborne</li>
-        <li>Mass Effect 1,2 and 3.</li>
-        <li>Dragon Age: Origins and 2.</li>
+        <li>Mass Effect 1,2 and 3</li>
+        <li>Dragon Age: Origins and 2</li>
         <li>TES5: Skyrim</li>
         <li>Diablo 3</li>
-        <li>The Last Of Us</li>
+        <li>The Last Of Us: Part I</li>
         <li>Horizon Zero Dawn</li>
+        <li>A Plague Tale: Innocence and Requiem</li>
       </ul>
 
       <p>
@@ -230,14 +224,7 @@
         </figcaption>
       </figure>
 
-      <p>
-        I love board games. I've been in the hobby for about
-        <time duration="PT156W">3 years</time> now. I have transformed my living
-        room into a gaming room. The only thing missing is the board game table,
-        but fear not it has been ordered. I just need to wait until next
-        <time datetime="06-2022">June</time> for it to be build and delivered
-        (Crowdfunding is always fun to wait for).
-      </p>
+      <p>I love board games. I've been in the hobby for about <time duration="PT156W">3 years</time> now. Proud owner of around 150 games I have transformed part of my living room into a gaming area.</p>
 
       <p>
         When I was still living in Belgium I used to visit my parents every
@@ -266,17 +253,7 @@
         we played so far.
       </p>
 
-      <p>
-        I also play Dungeons and Dragons. When the very first lockdown started
-        in Germany I just started a campaign with some colleagues. Since I knew
-        the most I took the role of the Dungeon Master. We played a year-long
-        campaign that finishes end of <time datetime="06-2021">June 2021</time>.
-        And I'm already planning our next campaign that
-        <span class="line-through"
-          >should start end of <time datetime="09-2021">September</time></span
-        >
-        started early <time datetime="11-2021">November 2021</time>.
-      </p>
+      <p>I also play Dungeons and Dragons. When the very first lockdown started in Germany I just started a campaign with some colleagues. Since I knew the most I took the role of the Dungeon Master. We played a year-long campaign that finishes end of <time datetime="06-2021">June 2021</time>.</p>
     </section>
   </article>
 </template>
