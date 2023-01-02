@@ -171,9 +171,9 @@
         and bash scripts which slowly migrated to Laravel Forge.
       </p>
 
-      <p>I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago.</p>
+      <p>I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago. Most of my days were spent on maintaining the code base, refactor aging APIs and work on the payment and subscription manager.</p>
 
-      <p>And finally I joined Strapi. I work as a Lead Backend Engineer for the upcoming Strapi Cloud platform.</p>
+      <p>And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer for the upcoming Strapi Cloud platform.</p>
     </section>
 
     <section class="mt-16 prose leading-loose max-w-none">
@@ -224,7 +224,7 @@
         </figcaption>
       </figure>
 
-      <p>I love board games. I've been in the hobby for about <time duration="PT156W">3 years</time> now. Proud owner of around 150 games I have transformed part of my living room into a gaming area.</p>
+      <p>I love board games. I've been in the hobby for about <time duration="PT208W">4 years</time> now. Proud owner of around 200 games I have transformed part of my living room into a gaming area.</p>
 
       <p>
         When I was still living in Belgium I used to visit my parents every
