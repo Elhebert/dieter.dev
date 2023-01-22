@@ -56,7 +56,7 @@ return [
 
     'url' => env('APP_URL', 'http://localhost'),
 
-    'asset_url' => env('DEPLOY_URL'),
+    'asset_url' => env('CONTEXT') === 'production' ? env('ASSET_URL') : env('DEPLOY_URL'),
 
     /*
     |--------------------------------------------------------------------------
