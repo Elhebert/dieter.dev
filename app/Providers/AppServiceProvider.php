@@ -26,7 +26,7 @@ class AppServiceProvider extends ServiceProvider
     public function boot(Exporter $exporter)
     {
         $exporter->crawl(false);
-        $exporter->paths(['', 'uses', 'resume']);
+        $exporter->paths(['', 'uses', 'career']);
         $exporter->paths(
             collect(File::allFiles(storage_path('app/journal')))
                 ->map(fn ($file) => "blog/{$file->getFilenameWithoutExtension()}")
