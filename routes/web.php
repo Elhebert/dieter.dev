@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', fn () => view('welcome'))->name('home');
+Route::get('/career', fn () => view('career'))->name('career');
 Route::get('/uses', fn () => view('uses'))->name('uses');
 Route::get('/blog/{slug}', [PostsController::class, 'show'])->name('blog');
 Route::get('/resume', [ResumeController::class, 'show'])->name('resume');

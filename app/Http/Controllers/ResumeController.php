@@ -43,7 +43,7 @@ class ResumeController extends Controller
                 'company' => 'Altavia ACT*',
                 'url' => 'https://altavia-act.com',
                 'location' => 'Brussels',
-                'technologies' => ['PHP', 'Laravel', 'Javascript', 'VueJS','Ansible'],
+                'technologies' => ['PHP', 'Laravel', 'Javascript', 'VueJS', 'Ansible'],
             ],
             [
                 'from' => 'August 2016',
@@ -71,7 +71,7 @@ class ResumeController extends Controller
                 'degree' => '3rd year of Ordinary Bachelor (level 7) in Computer Engineering',
                 'school' => 'Athlone Institute of Technology',
                 'location' => 'Athlone - Ireland',
-                'grade' => 'Distinction'
+                'grade' => 'Distinction',
             ],
             [
                 'from' => '2011',
@@ -79,22 +79,22 @@ class ResumeController extends Controller
                 'degree' => "Bachelor's degree in I.T. - Network and systems",
                 'school' => 'Haute école de Namur Liège Luxembourg - IESN',
                 'location' => 'Namur - Belgium',
-                'grade' => 'Distinction'
-            ]
+                'grade' => 'Distinction',
+            ],
         ];
         $languages = [
             [
                 'language' => 'French',
-                'level' => 'Mothertongue'
+                'level' => 'Mothertongue',
             ],
             [
                 'language' => 'English',
-                'level' => 'C1'
+                'level' => 'C1',
             ],
             [
                 'language' => 'Spanish',
-                'level' => 'A2'
-            ]
+                'level' => 'A2',
+            ],
         ];
         $interests = [
             'Role Playing Game',

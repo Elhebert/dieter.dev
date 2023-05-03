@@ -2,9 +2,9 @@
 
 namespace App\Providers;
 
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Export\Exporter;
-use Illuminate\Support\Facades\File;
 
 class AppServiceProvider extends ServiceProvider
 {

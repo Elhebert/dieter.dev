@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use Spatie\YamlFrontMatter\YamlFrontMatter;
 use Illuminate\Contracts\View\View;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\File;
+use Spatie\YamlFrontMatter\YamlFrontMatter;
 
 class PostsController extends Controller
 {

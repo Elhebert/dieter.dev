@@ -1,6 +1,6 @@
 <header class="container max-w-screen-xl mx-auto px-4 sm:px-16 py-4">
     <nav class="flex justify-end">
-        <ul class="flex space-x-4">
+        <ul class="flex space-x-6">
             <li>
                 <a
                     href="/"
@@ -9,6 +9,16 @@
                     "
                 >
                     Home
+                </a>
+            </li>
+            <li>
+                <a
+                    href="/career"
+                    class="text-xl font-bold no-underline hover:text-[#3736C6]
+                        {{ request()->routeIs('career') ? 'text-[#3736C6]':'' }}
+                    "
+                >
+                    Career
                 </a>
             </li>
             <li>
