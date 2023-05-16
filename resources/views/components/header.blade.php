@@ -3,9 +3,10 @@
         <ul class="flex space-x-6">
             <li>
                 <a
+                    tabindex="0"
                     href="/"
-                    class="text-xl font-bold no-underline hover:text-[#3736C6]
-                        {{ request()->routeIs('home') ? 'text-[#3736C6]':'' }}
+                    class="text-xl font-bold hover:text-[#3736C6] decoration-4
+                        {{ request()->routeIs('home') ? 'text-[#3736C6] underline':'no-underline hover:underline' }}
                     "
                 >
                     Home
@@ -14,8 +15,8 @@
             <li>
                 <a
                     href="/career"
-                    class="text-xl font-bold no-underline hover:text-[#3736C6]
-                        {{ request()->routeIs('career') ? 'text-[#3736C6]':'' }}
+                    class="text-xl font-bold hover:text-[#3736C6] decoration-4
+                        {{ request()->routeIs('career') ? 'text-[#3736C6] underline':'no-underline hover:underline' }}
                     "
                 >
                     Career
@@ -24,8 +25,8 @@
             <li>
                 <a
                     href="/uses"
-                    class="text-xl font-bold no-underline hover:text-[#3736C6]
-                        {{ request()->routeIs('uses') ? 'text-[#3736C6]':'' }}
+                    class="text-xl font-bold hover:text-[#3736C6] decoration-4
+                        {{ request()->routeIs('uses') ? 'text-[#3736C6] underline':'no-underline hover:underline' }}
                     "
                 >
                     Uses

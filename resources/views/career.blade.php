@@ -67,14 +67,31 @@
                 I then joined a marketing agency, Altavia ACT, specialized in big retailers (Carrefour, Tom & Co, Metro, Badoit, etc...). On top of creating different kind of websites for them I also took over the whole releasing pipeline. When I joined they had a single server with over 150 websites. When I left they had a single Digital Ocean instance per site with automated provisioning and deployment thanks to a series of Ansible and bash scripts which slowly migrated to Laravel Forge.
             </p>
 
-            <p>I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago: <a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://studio.trivago.com">trivago Business Studio</a>. Most of my days were spent on maintaining the code base, refactor aging APIs and work on the payment and subscription manager.</p>
+            <p>
+                I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago: <a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://studio.trivago.com">trivago Business Studio</a>. Most of my days were spent on maintaining the code base, refactor aging APIs and work on the payment and subscription manager.
+            </p>
 
-            <p>And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer on <a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://studio.trivago.com">Strapi Cloud</a>. Together with the CTO we build the architecture and put the foundation of the code base that is running Strapi Cloud. My day-to-day consists of mentoring other engineers, being a bridge between our engineering and product teams and to be a steward for the codebase.</p>
-            </section>
+
+            <p>
+                And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer on <a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://studio.trivago.com">Strapi Cloud</a>. Together with the CTO we build the architecture and put the foundation of the code base that is running Strapi Cloud. My day-to-day consists of mentoring other engineers, being a bridge between our engineering and product teams and to be a steward for the codebase.
+            </p>
+        </section>
 
         <section class="mt-16 leading-loose max-w-none">
-            <h2 class="text-center ml-[-.1rem] text-[#ECC127] font-bold">testimonials</h2>
-            <h3 class="text-center text-3xl font-bold">I'm amazing but don't take my word for it</h3>
+            <div class="text-center ml-[-.1rem] text-[#ECC127] font-bold">Some things are more important than others</div>
+            <h2 class="text-center text-3xl font-bold mb-8">Values</h2>
+
+            <dl class="gap-8 gap-x-16 grid grid-cols-1 lg:grid-cols-2 justify-between">
+                <x-value name="Privacy-focus">I value my own privacy online. I believe that we need to also take care of our users' privacy first.</x-value>
+                <x-value name="Clean code">Above complexity and fancy design pattern I value clean and readable code.</x-value>
+                <x-value name="User first">When designing a feature or thinking about architecural improvement I always take care of not degrading the user's experience.</x-value>
+                <x-value name="Work life balance">Work doesn't exist outside of working hours. I don't think my company is like a family. And my family and health will always come first.</x-value>
+            </dl>
+        </section>
+
+        <section class="mt-16 leading-loose max-w-none">
+            <div class="text-center font-bold text-[#ECC127]">I'm amazing but don't take my word for it</div>
+            <h2 class="text-center text-3xl ml-[-.1rem] mb-4 font-bold">Testimonials</h2>
 
             <div class="flow-root">
                 <div class="sm:columns-2 lg:columns-3 gap-4">

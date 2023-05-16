@@ -1,4 +1,5 @@
 <svg viewBox="0 0 569 151" {{ $attributes }}>
+    <title>Strapi</title>
     <g fill="none" fill-rule="evenodd">
       <g fill="#8E75FF">
         <path d="M85.1 109.5V68.3c0-1.5-1.2-2.7-2.6-2.7H41.4V23h83.5c1.4 0 2.6 1.2 2.6 2.7v83.8H85.1Z"/>
