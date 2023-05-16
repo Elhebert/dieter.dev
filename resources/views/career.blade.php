@@ -25,7 +25,7 @@
 
                     <li>
                         <a href="https://miysis.be" title="Miysis"
-                            ><x-svg.miysis class="text-black w-32"
+                            ><x-svg.miysis class="text-black dark:text-white w-32"
                         /></a>
                     </li>
 
@@ -37,20 +37,20 @@
 
                     <li>
                         <a href="https://trivago.com" title="trivago"
-                            ><x-svg.trivago class="w-36"
+                            ><x-svg.trivago class="w-36 text-[#37474D] dark:text-white"
                         /></a>
                     </li>
 
                     <li>
                         <a href="https://strapi.io" title="Strapi"
-                            ><x-svg.strapi class="w-36"
+                            ><x-svg.strapi class="w-32 text-[#212067] dark:text-white"
                         /></a>
                     </li>
                 </ul>
             </div>
         </section>
 
-        <section class="mt-16 prose leading-loose max-w-none">
+        <section class="mt-16 prose dark:prose-invert leading-loose max-w-none">
             <p>
                 I studied IT System and Network Administration in Belgium and did one year of Computer Engineering in Ireland. I don't really remember what I learned. But it got me into web development, so I guess it was worth it.
             </p>
@@ -68,12 +68,12 @@
             </p>
 
             <p>
-                I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago: <a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://studio.trivago.com">trivago Business Studio</a>. Most of my days were spent on maintaining the code base, refactor aging APIs and work on the payment and subscription manager.
+                I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago: <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://studio.trivago.com">trivago Business Studio</a>. Most of my days were spent on maintaining the code base, refactor aging APIs and work on the payment and subscription manager.
             </p>
 
 
             <p>
-                And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer on <a class="no-underline hover:underline font-bold text-[#3736C6]" href="https://studio.trivago.com">Strapi Cloud</a>. Together with the CTO we build the architecture and put the foundation of the code base that is running Strapi Cloud. My day-to-day consists of mentoring other engineers, being a bridge between our engineering and product teams and to be a steward for the codebase.
+                And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer on <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://strapi.io/cloud">Strapi Cloud</a>. Together with the CTO we build the architecture and put the foundation of the code base that is running Strapi Cloud. My day-to-day consists of mentoring other engineers, being a bridge between our engineering and product teams and to be a steward for the codebase.
             </p>
         </section>
 

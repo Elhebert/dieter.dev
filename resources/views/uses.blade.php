@@ -1,6 +1,6 @@
 <x-layouts.app title="Uses - Dieter Stinglhamber">
     <article>
-        <section class="prose leading-loose max-w-none">
+        <section class="prose dark:prose-invert leading-loose max-w-none">
         <p class="text-[#ECC127] text-3xl leading-snug font-black">My Setup</p>
 
         <figure class="my-8 text-center">
@@ -21,7 +21,7 @@
         </p>
         </section>
 
-        <section class="mt-16 prose leading-loose max-w-none">
+        <section class="mt-16 prose dark:prose-invert leading-loose max-w-none">
         <p class="text-[#ECC127] text-3xl leading-snug font-black">Hardware</p>
 
         <p><strong class="font-bold">Shared by both computer:</strong></p>
@@ -64,7 +64,7 @@
         </ul>
         </section>
 
-        <section class="mt-16 prose leading-loose max-w-none">
+        <section class="mt-16 prose dark:prose-invert leading-loose max-w-none">
         <p class="text-[#ECC127] text-3xl leading-snug font-black">Software</p>
 
         <p><strong class="font-bold">Used on both computer:</strong></p>

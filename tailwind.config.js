@@ -25,7 +25,7 @@ module.exports = {
                             color: "#ECC127",
                         },
                         a: {
-                            "@apply no-underline hover:underline font-bold text-[#3736C6]":
+                            "@apply no-underline hover:underline font-bold text-indigo-500":
                                 "",
                         },
                     },

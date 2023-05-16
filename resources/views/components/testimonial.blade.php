@@ -1,7 +1,7 @@
 @props(['author'])
 
 <div class="pt-4 break-inside-avoid-column">
-    <figure class="bg-[#FAF8EF] p-10 rounded-2xl">
+    <figure class="bg-[#FAF8EF] dark:bg-indigo-900 p-10 rounded-2xl">
         <blockquote>
             <p>&quot;{{ $slot }}&quot;</p>
         </blockquote>

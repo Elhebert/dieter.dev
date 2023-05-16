@@ -5,8 +5,8 @@
                 <a
                     tabindex="0"
                     href="/"
-                    class="text-xl font-bold hover:text-[#3736C6] decoration-4
-                        {{ request()->routeIs('home') ? 'text-[#3736C6] underline':'no-underline hover:underline' }}
+                    class="text-xl font-bold dark:hover:text-indigo-500 hover:text-[#3736C6] decoration-4
+                        {{ request()->routeIs('home') ? 'dark:text-indigo-500 text-[#3736C6] underline':'no-underline hover:underline' }}
                     "
                 >
                     Home
@@ -15,8 +15,8 @@
             <li>
                 <a
                     href="/career"
-                    class="text-xl font-bold hover:text-[#3736C6] decoration-4
-                        {{ request()->routeIs('career') ? 'text-[#3736C6] underline':'no-underline hover:underline' }}
+                    class="text-xl font-bold dark:hover:text-indigo-500 hover:text-[#3736C6] decoration-4
+                        {{ request()->routeIs('career') ? 'dark:text-indigo-500 text-[#3736C6] underline':'no-underline hover:underline' }}
                     "
                 >
                     Career
@@ -25,8 +25,8 @@
             <li>
                 <a
                     href="/uses"
-                    class="text-xl font-bold hover:text-[#3736C6] decoration-4
-                        {{ request()->routeIs('uses') ? 'text-[#3736C6] underline':'no-underline hover:underline' }}
+                    class="text-xl font-bold dark:hover:text-indigo-500 hover:text-[#3736C6] decoration-4
+                        {{ request()->routeIs('uses') ? 'dark:text-indigo-500 text-[#3736C6] underline':'no-underline hover:underline' }}
                     "
                 >
                     Uses

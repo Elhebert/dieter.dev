@@ -20,7 +20,7 @@
         </div>
         </section>
 
-        <section class="sm:mt-16 prose leading-loose max-w-none">
+        <section class="sm:mt-16 prose dark:prose-invert leading-loose max-w-none">
         <p class="text-[#ECC127] text-3xl leading-snug font-black">About me</p>
 
         <p>
@@ -58,7 +58,7 @@
         </p>
         </section>
 
-            <section class="mt-16 prose leading-loose max-w-none">
+        <section class="mt-16 prose dark:prose-invert leading-loose max-w-none">
             <p class="text-[#ECC127] text-2xl leading-snug font-black">Video games</p>
 
             <p>
@@ -71,7 +71,7 @@
                 <li>Dark Souls 1 and 3</li>
                 <li>Demon Souls (PS3 and PS5)</li>
                 <li>Bloodborne</li>
-                <li>Mass Effect 1,2 and 3</li>
+                <li>Mass Effect 1, 2 and 3</li>
                 <li>Dragon Age: Origins and 2</li>
                 <li>TES5: Skyrim</li>
                 <li>Diablo 3</li>
@@ -85,7 +85,7 @@
             </p>
         </section>
 
-        <section class="mt-16 prose leading-loose max-w-none">
+        <section class="mt-16 prose dark:prose-invert leading-loose max-w-none">
             <p class="text-[#ECC127] text-2xl leading-snug font-black">
                 My kingdom for board games
             </p>

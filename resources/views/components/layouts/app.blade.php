@@ -8,7 +8,7 @@
 
         @vite('resources/css/app.css')
     </head>
-    <body class="antialiased">
+    <body class="antialiased dark:text-white dark:bg-slate-900">
         <x-header />
         <main class="container max-w-screen-xl mx-auto relative p-4 sm:p-16 pt-0">
             {{ $slot }}
