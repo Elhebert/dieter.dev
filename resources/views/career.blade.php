@@ -109,7 +109,7 @@
 
                     <x-testimonial author="Developer">Dieter is a great team lead to work with and to learn from. He is honest, transparent, humble and accessible. Dieter has strong technical skills whatever the topic (frameworks, languages, databases, ...). He's also very good to think out of the box and bring interesting point of views during meetings and on papers.</x-testimonials>
 
-                    <x-testimonial author="Developer">It's nice to have weekly meetings with Dieter where we talk about the Cloud at 360 degrees and align on topics. He is also handling very well the technical leadership of the team</x-testimonials>
+                    <x-testimonial author="Developer">It's nice to have weekly meetings with Dieter where we talk about the product at 360 degrees and align on topics. He is also handling very well the technical leadership of the team</x-testimonials>
 
                     <x-testimonial author="Project manager">Dieter has strong technical abilities. He's able to think about many aspects of a problem, and quickly identifies consequences of possible solutions. He wants to build things the right way and is willing to help fixing day-to-day issues. We need Dieter's feedbacks as they are very valuable.</x-testimonials>
 
