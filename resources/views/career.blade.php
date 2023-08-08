@@ -73,7 +73,7 @@
 
 
             <p>
-                And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer on <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://strapi.io/cloud">Strapi Cloud</a>. Together with the CTO we build the architecture and put the foundation of the code base that is running Strapi Cloud. My day-to-day consists of mentoring other engineers, being a bridge between our engineering and product teams and to be a steward for the codebase.
+                And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer on <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://strapi.io/cloud">Strapi Cloud</a>. Together with the CTO we build the architecture and put the foundation of the code base that is running Strapi Cloud. My day-to-day consists of mentoring other engineers, being a bridge between our engineering and product teams and to be a steward for the codebase. I ensure that our tech strategy syncs with the big-picture business goals. I oversee the execution of technical tests, ensuring code quality and troubleshooting challenges. Additionally, as a part of the on-call rotation for the Cloud platform, I remain vigilant to maintain the reliability and functionality of our services.
             </p>
         </section>
 
@@ -85,7 +85,7 @@
                 <x-value name="Privacy-focus">I value my own privacy online. I believe that we need to also take care of our users' privacy first.</x-value>
                 <x-value name="Clean code">Above complexity and fancy design pattern I value clean and readable code.</x-value>
                 <x-value name="User first">When designing a feature or thinking about architecural improvement I always take care of not degrading the user's experience.</x-value>
-                <x-value name="Work life balance">Work doesn't exist outside of working hours. I don't think my company is like a family. And my family and health will always come first.</x-value>
+                <x-value name="Work life balance">Work doesn't exist outside of working hours. I don't think my company is like a family. My family and health will always come first.</x-value>
             </dl>
         </section>
 
@@ -114,6 +114,8 @@
                     <x-testimonial author="Project manager">Dieter has strong technical abilities. He's able to think about many aspects of a problem, and quickly identifies consequences of possible solutions. He wants to build things the right way and is willing to help fixing day-to-day issues. We need Dieter's feedbacks as they are very valuable.</x-testimonials>
 
                     <x-testimonial author="Developer">Dieter share and explain what he has on his mind. During standups, backlog reviews, tech refinement, on Slack, etc... What he is saying is always efficient and pertinent/relevant, there is no superfluous, it's always straight to the point!</x-testimonials>
+
+                    <x-testimonial author="SRE">It's very pleasant to work with you. You are always eager to improve the platform and very quick reaction when something needs to evolve. Your code reviews are accurate and provided the right way (with care and argumented). From what I've seen, very good leadership on the backend team, demonstrated in the sync's, where sometimes it can miss responsivity from the team, you are very good at animating it, pushing the team to progress.</x-testimonials>
                 </div>
             </div>
         </section>
