@@ -78,6 +78,7 @@
                 <li>The Last Of Us: Part I</li>
                 <li>Horizon Zero Dawn</li>
                 <li>A Plague Tale: Innocence and Requiem</li>
+                <li>Spider-man, Spider-man: Miles Morales and Spider-man 2</li>
             </ul>
 
             <p>
