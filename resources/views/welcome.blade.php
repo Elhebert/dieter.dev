@@ -74,7 +74,7 @@
                 <li>Mass Effect 1, 2 and 3</li>
                 <li>Dragon Age: Origins and 2</li>
                 <li>TES5: Skyrim</li>
-                <li>Diablo 3</li>
+                <li>Diablo 3 and 4</li>
                 <li>The Last Of Us: Part I</li>
                 <li>Horizon Zero Dawn</li>
                 <li>A Plague Tale: Innocence and Requiem</li>

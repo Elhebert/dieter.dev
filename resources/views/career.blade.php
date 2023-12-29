@@ -1,18 +1,19 @@
 <x-layouts.app>
     <article>
         <section class="mt-16 leading-loose max-w-none">
-            <h2 class="text-center text-3xl ml-[-.1rem] font-bold">Trusted by at least <span class="text-[#ECC127]">5</span> differents companies</h2>
+            <h2 class="text-center text-3xl ml-[-.1rem] font-bold">Trusted by at least <span class="text-[#ECC127]">6</span> differents companies</h2>
 
             <div
                 class="mt-8 w-full py-12 px-3 flex flex-col justify-center items-center"
             >
                 <ul
-                    class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8 justify-items-center items-center w-4/5"
+                    class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-8 justify-items-center items-center w-4/5 lg:w-full"
                 >
                     <li>
                         <a
                             class="h-10 flex items-center"
                             href="https://escaux.be"
+                            target="_blank"
                             title="Escaux"
                         >
                             <img
@@ -24,26 +25,32 @@
                     </li>
 
                     <li>
-                        <a href="https://miysis.be" title="Miysis"
+                        <a href="https://miysis.be" title="Miysis" target="_blank"
                             ><x-svg.miysis class="text-black dark:text-white w-32"
                         /></a>
                     </li>
 
                     <li>
-                        <a href="https://altavia-act.com" title="Altavia ACT*"
+                        <a href="https://altavia-act.com" title="Altavia ACT*" target="_blank"
                             ><x-svg.altavia-act class="w-36"
                         /></a>
                     </li>
 
                     <li>
-                        <a href="https://trivago.com" title="trivago"
+                        <a href="https://trivago.com" title="trivago" target="_blank"
                             ><x-svg.trivago class="w-36 text-[#37474D] dark:text-white"
                         /></a>
                     </li>
 
                     <li>
-                        <a href="https://strapi.io" title="Strapi"
+                        <a href="https://strapi.io" title="Strapi" target="_blank"
                             ><x-svg.strapi class="w-32 text-[#212067] dark:text-white"
+                        /></a>
+                    </li>
+
+                    <li>
+                    <a href="https://proton.me" title="Proton" target="_blank"
+                            ><x-svg.proton class="w-32 text-[#6D4AFF]"
                         /></a>
                     </li>
                 </ul>
@@ -68,12 +75,19 @@
             </p>
 
             <p>
-                I worked for 2 years for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago: <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://studio.trivago.com">trivago Business Studio</a>. Most of my days were spent on maintaining the code base, refactor aging APIs and work on the payment and subscription manager.
+                I worked for <time duration="104W">2 years</time> for (hotel?) trivago. I was involved in the development of a marketplace platform where independent hoteliers would be able to buy and use tools/apps to manage their properties on trivago: <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://studio.trivago.com">trivago Business Studio</a>. Most of my days were spent on maintaining the code base, refactor aging APIs and work on the payment and subscription manager.
             </p>
 
+            <p>
+                After trivago I served as a Senior Backend Engineer at Strapi for a rewarding period of <time duration="126W">2.5 years</time>. During this time, I transitioned into the role of Lead Backend Engineer, spearheading the development of <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://strapi.io/cloud">Strapi Cloud</a>. Collaborating closely with the CTO, I played a pivotal role in shaping the architecture and laying the groundwork for the code base that powers Strapi Cloud today. In this capacity, my responsibilities encompassed mentoring fellow engineers, acting as a liaison between our engineering and product teams, and serving as a guardian for the codebase.
+            </p>
 
             <p>
-                And finally I joined Strapi as a Senior Backend Engineer. Soon after I started to work as a Lead Backend Engineer on <a class="no-underline hover:underline font-bold text-[#3736C6] dark:text-indigo-500" href="https://strapi.io/cloud">Strapi Cloud</a>. Together with the CTO we build the architecture and put the foundation of the code base that is running Strapi Cloud. My day-to-day consists of mentoring other engineers, being a bridge between our engineering and product teams and to be a steward for the codebase. I ensure that our tech strategy syncs with the big-picture business goals. I oversee the execution of technical tests, ensuring code quality and troubleshooting challenges. Additionally, as a part of the on-call rotation for the Cloud platform, I remain vigilant to maintain the reliability and functionality of our services.
+                My daily tasks included aligning our tech strategy with overarching business objectives, overseeing the implementation of technical tests to ensure code quality, and adeptly navigating and resolving challenges. Furthermore, as an integral part of the on-call rotation for the Cloud platform, I remained vigilant to uphold the reliability and functionality of our services.
+            </p>
+
+            <p>
+                And finally I joined Proton as a Senior Backend Engineer.
             </p>
         </section>
 
@@ -116,6 +130,10 @@
                     <x-testimonial author="Developer">Dieter share and explain what he has on his mind. During standups, backlog reviews, tech refinement, on Slack, etc... What he is saying is always efficient and pertinent/relevant, there is no superfluous, it's always straight to the point!</x-testimonials>
 
                     <x-testimonial author="SRE">It's very pleasant to work with you. You are always eager to improve the platform and very quick reaction when something needs to evolve. Your code reviews are accurate and provided the right way (with care and argumented). From what I've seen, very good leadership on the backend team, demonstrated in the sync's, where sometimes it can miss responsivity from the team, you are very good at animating it, pushing the team to progress.</x-testimonials>
+
+                    <x-testimonial author="Backend developer">I'm not lying when I say that 90% of what I've learned in the last few months has been taught and shared by you. Learning, discovering, reviewing, QAing and talking with you has been a pleasure and an honour! Thanks to the developer, engineer, team leader and person you are, I have gained so much experience. People don't realise how many things, work, challenges, etc. you do and have on your plate - not counting the blockers. But through it all, you have always been there to help and support me. Believe me when I say that it was motivating to turn on the laptop in the morning knowing that you were there.</x-testimonial>
+
+                    <x-testimonial author="SRE">From the moment I joined the team, your expertise and knowledge never ceased to amaze me. Your ability to navigate multiple complex issues simultaneously was not only impressive, but an inspiration to those around you. As a technical leader, your personality blended seamlessly with your role, creating an environment that was both productive and enjoyable for the team.</x-testimonial>
                 </div>
             </div>
         </section>

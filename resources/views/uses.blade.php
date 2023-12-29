@@ -4,8 +4,8 @@
         <p class="text-[#ECC127] text-3xl leading-snug font-black">My Setup</p>
 
         <figure class="my-8 text-center">
-            <img src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1683145161/dieter.dev/desk-new.jpg" class="rounded-xl shadow-lg mx-auto" alt="setup">
-            <figcaption>Here's what my setup looked like</figcaption>
+            <img src="https://res.cloudinary.com/elhebert/image/upload/c_scale,dpr_auto,f_auto,w_auto,q_auto/v1683145161/dieter.dev/desk-latest.jpg" class="rounded-xl shadow-lg mx-auto" alt="setup">
+            <figcaption>Here's what my current setup looks like</figcaption>
         </figure>
 
         <p>
@@ -29,19 +29,23 @@
         <ul>
             <li>🪑 Autonomous ErgoChair Pro</li>
             <li>🪵 IKEA Bekant Standing desk with custom wooden counter top</li>
+            <li>🗄️ Balolo Setup Cockpit Monitor Stand with various accessories</li>
             <li>🖥️ LG 38WN95C-W</li>
             <li>🎥 Logitech Brio 4K</li>
             <li>🎙️ Rode Procaster with Blue Yeti Compass arm</li>
             <li>🎛️ Focusrite Scarlett Solo 3rd Gen</li>
             <li>🎧 AKG K92 for direct feedback</li>
+            <li>🔈 Ruark MR1 with Balolo speaker stand</li>
             <li>💡 Elgato KeyLight Air</li>
+            <li>🔦 BenQ ScreenBar Halo</li>
+            <li>🧶 Balolo Desk Pad</li>
         </ul>
 
         <p><strong class="font-bold">Personal:</strong></p>
 
         <ul>
-            <li>💻 Custom build (RTX 2080ti, Ryzen 9 3900X)</li>
-            <li>🎧 Steelseries Arctis 7P</li>
+            <li>💻 Custom build (RTX 2080ti, Ryzen 9 3900X) in the Fractal North case</li>
+            <li>🎧 Steelseries Arctis Nova 7 Wireless: Diablo® IV Edition</li>
             <li>⌨️ Drop CTRL with Mito Canvas keycaps</li>
             <li>🖱️ Steelseries Aerox 3 wireless</li>
             <li>🖱️ Logitech MX Master 3s</li>
@@ -50,7 +54,7 @@
         <p><strong class="font-bold">Work:</strong></p>
 
         <ul>
-            <li>💻 Macbook Pro M1 2020</li>
+            <li>💻 Macbook Pro M3 2023</li>
             <li>🎧 Bose NC 700 HP</li>
             <li>⌨️ Keychron K3</li>
             <li>🖱️ Apple Magic Trackpad 2</li>
@@ -74,7 +78,7 @@
             <li>☀️ F.lux</li>
             <li>🔐 1Password</li>
             <li>💬 Discord</li>
-            <li>📟 VS Code with the Night Owl theme</li>
+            <li>📟 VS Code with the Flexoki Light theme</li>
             <li>📡 Insomnia</li>
             <li>💽 DBeaver</li>
             <li>🦊 Firefox</li>
@@ -84,18 +88,18 @@
 
         <ul>
             <li>⚙️ Windows 11</li>
-            <li>🧑‍💻 Windows Terminal</li>
+            <li>🧑‍💻 Windows Terminal with the Flexoki Light theme</li>
             <li>🪟 Fancy Zones (from PowerToys)</li>
             <li>🚀 PowerToys Run (from PowerToys)</li>
-            <li>🐧 WSL 2 with Ubuntu 2020</li>
+            <li>🐧 WSL 2 with Ubuntu 2022</li>
             <li>📃 Not Another PDF Scanner 2</li>
         </ul>
 
         <p><strong class="font-bold">Work:</strong></p>
 
         <ul>
-            <li>⚙️ Mac OS Ventura</li>
-            <li>🧑‍💻 iTerm 2 with the Night Owl theme</li>
+            <li>⚙️ Mac OS Sonoma</li>
+            <li>🧑‍💻 iTerm 2 with the Flexoki Light theme</li>
             <li>🪟 Rectangle</li>
             <li>🚀 Raycast</li>
             <li>🧮 Numi</li>
