@@ -1,7 +1,7 @@
 <x-layouts.app>
     <article>
         <section class="mt-16 leading-loose max-w-none">
-            <h2 class="text-center text-3xl ml-[-.1rem] font-bold">Trusted by at least <span class="text-[#ECC127]">6</span> differents companies</h2>
+            <h2 class="text-center text-3xl ml-[-.1rem] font-bold">Trusted by at least <span class="text-[#ECC127]">6</span> different companies</h2>
 
             <div
                 class="mt-8 w-full py-12 px-3 flex flex-col justify-center items-center"
@@ -98,8 +98,8 @@
             <dl class="gap-8 gap-x-16 grid grid-cols-1 lg:grid-cols-2 justify-between">
                 <x-value name="Privacy-focus">I value my own privacy online. I believe that we need to also take care of our users' privacy first.</x-value>
                 <x-value name="Clean code">Above complexity and fancy design pattern I value clean and readable code.</x-value>
-                <x-value name="User first">When designing a feature or thinking about architecural improvement I always take care of not degrading the user's experience.</x-value>
-                <x-value name="Work life balance">Work doesn't exist outside of working hours. I don't think my company is like a family. My family and health will always come first.</x-value>
+                <x-value name="User first">When designing a feature or thinking about architectural improvement I always take care of not degrading the user's experience.</x-value>
+                <x-value name="Work life balance">Work doesn't exist outside working hours. I don't think my company is like a family. My family and health will always come first.</x-value>
             </dl>
         </section>
 

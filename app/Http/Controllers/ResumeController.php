@@ -10,8 +10,17 @@ class ResumeController extends Controller
     {
         $experiences = [
             [
-                'from' => 'March 2022',
+                'from' => 'January 2024',
                 'to' => 'now',
+                'title' => 'Senior Backend Engineer',
+                'company' => 'Proton',
+                'url' => 'https://proton.me',
+                'location' => 'Remote',
+                'technologies' => ['PHP', 'Symfony'],
+            ],
+            [
+                'from' => 'March 2022',
+                'to' => 'December 2023',
                 'title' => 'Lead Backend Engineer',
                 'company' => 'Strapi',
                 'url' => 'https://strapi.io',

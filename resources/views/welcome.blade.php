@@ -27,7 +27,7 @@
             In a few words:<br />🧞 Weird, 🧙‍♂️ different, 🤓 quirky, 📢 loud, 🤣 funny.
         </p>
         <p>👨‍💼 I don't know how to act my age. I've never been this old before.</p>
-        <p>🇧🇪 I'm Belgian, lived in Germany 🇩🇪 for a couple years and  somehow landed in sunny south of France 🇫🇷.</p>
+        <p>🇧🇪 I'm Belgian, lived in Germany 🇩🇪 for a couple of years and  somehow landed in sunny south of France 🇫🇷.</p>
         <p>💬 I speak both French 🇫🇷, English 🇬🇧 and basic Spanish 🇪🇸.</p>
         <p>
             🧸 I love Disney cartoons and movies. My all-time favorite is Beauty and the Beast 🌹 (with Emma Watson).
@@ -47,7 +47,7 @@
             🎄 I LOVE Christmas. It's the best time of the year! As soon as <time datetime="12-01">December 1st</time> arrives I dust off Micheal Bubble Christmas album and enjoy wearing my "Ugly X-Mas sweater".
         </p>
         <p>
-            🏃‍♂️ I used to do sport but now I'm lazy. I mostly ran. On the best days, I used to do about 20 - 30km per week. I ran a semi-marathon and a couple of 20km races. I even attempted a marathon once (Brussels Marathon <time datetime="2018">2018</time>) and gave up after 36km. I  was close to the finish, I know, but after <time datetime="PT4H16M">4h16</time> I could barely walk. I hit that god  forsaken wall. I learned that there are things that you can't go unprepared for. But it was fun. I'd like to one day attempt that again. But I will need to train seriously for that.
+            🏃‍♂️ I used to do sport, but now I'm lazy. I mostly ran. On the best days, I used to do about 20 - 30km per week. I ran a semi-marathon and a couple of 20km races. I even attempted a marathon once (Brussels Marathon <time datetime="2018">2018</time>) and gave up after 36km. I  was close to the finish, I know, but after <time datetime="PT4H16M">4h16</time> I could barely walk. I hit that god  forsaken wall. I learned that there are things that you can't go unprepared for. But it was fun. I'd like to one day attempt that again. But I will need to train seriously for that.
         </p>
         <p>
             🛒 I don't like Amazon. I always favor local brick-and-mortar stores and if I need to buy something online I'll go to a smaller, more local store. Amazon will be my very last resort if I exhausted all other possibilities. Recently I started to buy more and more second-hand, especially board games.
@@ -75,7 +75,7 @@
                 <li>Dragon Age: Origins and 2</li>
                 <li>TES5: Skyrim</li>
                 <li>Diablo 3 and 4</li>
-                <li>The Last Of Us: Part I</li>
+                <li>The Last Of Us: Part I and Part II</li>
                 <li>Horizon Zero Dawn</li>
                 <li>A Plague Tale: Innocence and Requiem</li>
                 <li>Spider-man, Spider-man: Miles Morales and Spider-man 2</li>

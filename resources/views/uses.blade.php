@@ -13,7 +13,7 @@
         </p>
 
         <p>
-            All the cable are managed with the help of raceways and cableclips attached to the bottom the desk with double side tape. This allow me to keep everything clean even when the desk is in the raised position.
+            All the cable are managed with the help of raceways and cable clips attached to the bottom the desk with double side tape. This allows me to keep everything clean even when the desk is in the raised position.
         </p>
 
         <p>
@@ -76,11 +76,7 @@
         <ul>
             <li>🎶 Apple Music</li>
             <li>☀️ F.lux</li>
-            <li>🔐 1Password</li>
-            <li>💬 Discord</li>
-            <li>📟 VS Code with the Flexoki Light theme</li>
-            <li>📡 Insomnia</li>
-            <li>💽 DBeaver</li>
+            <li>📟 VS Code with the Flexoki theme</li>
             <li>🦊 Firefox</li>
         </ul>
 
@@ -88,20 +84,26 @@
 
         <ul>
             <li>⚙️ Windows 11</li>
-            <li>🧑‍💻 Windows Terminal with the Flexoki Light theme</li>
+            <li>🧑‍💻 Windows Terminal with the Flexoki theme</li>
             <li>🪟 Fancy Zones (from PowerToys)</li>
             <li>🚀 PowerToys Run (from PowerToys)</li>
-            <li>🐧 WSL 2 with Ubuntu 2022</li>
+            <li>🔐 1Password</li>
+            <li>💬 Discord</li>
+            <li>📡 Insomnia</li>
+            <li>💽 DBeaver</li>
+            <li>🐧 WSL 2 with Ubuntu 2024</li>
             <li>📃 Not Another PDF Scanner 2</li>
         </ul>
 
         <p><strong class="font-bold">Work:</strong></p>
 
         <ul>
-            <li>⚙️ Mac OS Sonoma</li>
-            <li>🧑‍💻 iTerm 2 with the Flexoki Light theme</li>
+            <li>⚙️ Mac OS Sequoia</li>
+            <li>🧑‍💻 iTerm 2 with the Flexoki theme</li>
             <li>🪟 Rectangle</li>
             <li>🚀 Raycast</li>
+            <li>🔐 Proton Pass</li>
+            <li>📟 PHPStorm with the Flexoki theme</li>
             <li>🧮 Numi</li>
             <li>😀 Rocket</li>
         </ul>
